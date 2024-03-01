@@ -1,5 +1,5 @@
-# Hello World👋 About Me:
-I am a passionate, dedicated Web Developer and Data Analyst
+# Hello World👋:
+I am a passionate, dedicated <b>Web Developer </b> and <b>Data Analyst</b>
 
 ## Connect With Me
 
